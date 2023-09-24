@@ -1,0 +1,322 @@
+.div1{
+    width: 800PX;
+}
+
+
+.jk{
+    background-color: #0c383a;
+
+
+}
+
+.kl{
+    color: #000000;
+}
+
+.btncon{
+    
+    text-align: center;
+    background-color: rgb(0, 0, 0);;
+    padding: 10px 30px;
+    font-size: 15px;
+    color: rgb(190, 190, 190);;
+    border-radius: 15px;
+    margin-bottom: 10px;
+
+}
+.btncon:hover{
+    text-align: center;
+    background-color:rgb(190, 190, 190);;
+    padding: 10px 30px;
+    color: #000000;
+    font-size: 23px;
+    text-decoration: none;
+    border-radius: 15px;
+    border: 1px solid rgb(190, 190, 190);
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    margin-left: 30px;
+    border-radius: 78px;
+}
+
+.logo:hover{
+    
+    width: 60px;
+    height: 60px;
+    margin-left: 30px;
+    border-radius: 78px;
+}
+
+.item{
+    color: #000000;
+    font-size: 18px;
+    
+}
+.item:hover{
+    text-decoration: none;
+    color: #ffffff;
+    
+    
+}
+
+.pkk{
+    text-align: center;
+    padding-top: 280px;
+    font-size: 43px;
+    color: rgba(255, 255, 255, 0.877);
+    
+}
+
+.ppl{
+    text-align: center;
+    color: #ffffffce;
+    font-size: 20px;
+
+}
+
+.kkk{
+    background-color: #186c70;
+
+   
+}
+
+.jj{
+color: black;
+}
+
+.jp{
+color:#000000;
+}
+
+.card{
+    margin: 0 30px ;
+}
+
+.conteudo{
+
+    margin: 0 150px;
+}
+
+.titulo{
+    text-align: center;
+    margin: 15px 0;
+}
+
+
+ .botao{
+    background-color: #000000;
+    border-color: black;
+    color: #186c70;
+    padding: 7px 15px;
+    border-radius: 54px;
+    font-size: 16px;
+    border: 1px solid rgb(190, 190, 190);
+    }
+    
+    .botao:hover{
+        background-color: #3c5d5f7c;;
+        color: #000000;
+        border-color: black;
+    }
+
+    
+.info-fund{
+    margin: 19px 0;
+    display: flex;
+    justify-content: space-around;
+    
+    align-items: center;
+    
+}
+
+
+.prod{
+
+    border-radius: 30px;
+height: 600px;
+}
+
+
+.cadastrar{
+    background-color: #186c70;;
+    border: black;
+    color: #000000;
+    padding: 7px 15px;
+    border-radius: 54px;
+    font-size: 19px;
+    border: 1px solid rgb(190, 190, 190);
+    text-align: center;
+    margin: 10px 0;
+}
+
+
+.cadastrar1{
+    background-color: #003025;
+    border: none;
+    color: #020707;
+    border-radius: 19px;
+    padding: 4px 18px;
+    font-size: 19px;
+    border: 1px solid rgb(190, 190, 190);
+    text-align: center;
+    margin: 10px 0;
+}
+
+.gg:hover{
+    text-decoration: none;
+}
+
+.gg{
+    border-radius: 23px;
+    background-color: #003025;
+}
+
+
+.cadastrar1:hover{
+    text-decoration: none;
+    background-color: #000000c4;
+    border-color: black;
+    color:#003025;
+    border-radius: 19px;
+    padding: 4px 18px;
+    font-size: 19px;
+    border: 1px solid rgb(190, 190, 190);
+    text-align: center;
+    margin: 10px 0;
+}
+
+
+.btnm1{
+    text-align: center;
+}
+
+.cadastrar:hover{
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 23px;
+    border: 1px solid rgb(190, 190, 190);
+    background-color: #000000;
+    border-color: black;
+    color: #186c70;
+}
+.info-unitel{
+    display: flex;
+    flex-direction: column;
+  
+}
+
+.saber{
+    text-align: center;
+    background-color: #392a35;
+    border: none;
+    color: #e5fec5;
+    padding: 7px 15px;
+    border-radius: 54px;
+    font-size: 16px;
+    border: 1px solid rgb(190, 190, 190);
+
+}
+
+.paragrafo{
+    font-size: 19px;
+}
+
+
+
+.saber:hover{
+   text-align: center;
+    background-color: rgb(190, 190, 190);
+    padding: 10px 30px;
+    font-size: 23px;
+    color: rgb(0, 0, 0);
+    border-radius: 15px;
+    margin-bottom: 10px; 
+    text-decoration: none;
+}
+
+section#img011{
+    width: 100%;
+    height: 401px;
+}
+
+.img1{
+   margin: 10px 0;
+    background-image: url(../img/tornozeleira.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 587px;
+    background-attachment: fixed;
+}
+
+
+
+
+.img11{
+    margin: 10px 0;
+     background-image: url(../img/fio9\ -\ Cópia.jpg);
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+     height: 587px;
+     background-attachment: fixed;
+ }
+
+section#img011{
+    width: 100%;
+    height: 401px;
+}
+
+
+
+section#sobrenos{
+    width: 100%;
+    height: 401px;
+}
+.sobre{
+    background-image: url(../img/fio8.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 699px;
+    background-attachment: fixed;
+    padding: 15px 0;
+}
+
+.pp{
+    margin-left: 1050px;
+    display: inline-block;
+    margin-top: 100px;
+    width: 280px;
+    padding: 5px;
+    background-color: #124b4e38;;
+    color: white;
+}
+
+
+.pp2{
+    display: inline-block;
+    width: 280px;
+    padding: 5px;
+    background-color: #124b4e38;;
+    color: white;
+    margin-left: 1050px;
+    margin-top: 100px;
+}
+
+
+
+.pk{
+    text-align: center;
+    font-size: 41px;
+}
+
+.slide{
+    height: 100px;
+    width: 100%;
+}

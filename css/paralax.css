@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+section{
+  width: 100%;
+    height: 402px;
+}
+.img{
+   
+    background-image: url(../img/fio8.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    background-attachment: fixed;
+}
+.img1{
+   
+    background-image: url(../img/fio8.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    background-attachment: fixed;
+}
+
+.img2{
+   
+    background-image: url(../img/fio8.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    background-attachment: fixed;
+}
+.img3{
+   
+    background-image: url(../img/fio8.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    background-attachment: fixed;
+}
+.img4{
+   
+    background-image: url(../img/fio8.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    background-attachment: fixed;
+}
